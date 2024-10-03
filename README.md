@@ -43,4 +43,4 @@ Create a new post
 Edit an existing post
 View post details
 
-versel :- 
+versel :- https://blog-app-zeta-umber-82.vercel.app
